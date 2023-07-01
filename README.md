@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:MosDevx/Ruby-Enumerable.git
+  git clone git@github.com:MosDevx/hello-rails-back-end.git
 ```
 
 ### Usage
@@ -92,7 +92,8 @@ Clone this repository to your desired folder:
 If you have ruby installed in your PC the simply start IRB(**Interactive Ruby Shell**) on terminal using:
 
 ```sh
-  $ irb
+  $ruby install
+  $ rails s
 
 ```
 
