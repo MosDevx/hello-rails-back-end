@@ -44,7 +44,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Own Enumerable Module**
+- **React Frontend**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
