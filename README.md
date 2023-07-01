@@ -20,7 +20,7 @@
 
 # 📖 [Greeting Backend] <a name="about-project"></a>
 
-> **Greeting Backend** is a backend project that aerves greetings via API.
+> **Greeting Backend** is a backend project that serves greetings via API.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -31,6 +31,12 @@
 <summary>Server</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Rails</a></li>
+  </ul>
+</details>
+<summary>Frontend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">React</a></li>
+   <a href="https://github.com/MosDevx/hello-reaact-front-end">REPO</a>
   </ul>
 </details>
 
