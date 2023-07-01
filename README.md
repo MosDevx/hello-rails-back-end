@@ -20,7 +20,7 @@
 
 # 📖 [Greeting Backend] <a name="about-project"></a>
 
-> **Greeting Backend** is a backend project that aerves greetings via API.
+> **Greeting Backend** is a backend project that serves greetings via API.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -33,12 +33,18 @@
     <li><a href="https://www.ruby-lang.org/en/">Rails</a></li>
   </ul>
 </details>
+<summary>Frontend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">React</a></li>
+   <a href="https://github.com/MosDevx/hello-reaact-front-end">REPO</a>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Own Enumerable Module**
+- **React Frontend**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:MosDevx/Ruby-Enumerable.git
+  git clone git@github.com:MosDevx/hello-rails-back-end.git
 ```
 
 ### Usage
@@ -92,7 +98,8 @@ Clone this repository to your desired folder:
 If you have ruby installed in your PC the simply start IRB(**Interactive Ruby Shell**) on terminal using:
 
 ```sh
-  $ irb
+  $ruby install
+  $ rails s
 
 ```
 
